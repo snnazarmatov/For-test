@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+}
+.esen{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 70px;
+    border: 2px solid blue;
+    border-radius: 12px;
+    width: 500px;
+    height: 300px;
+}
